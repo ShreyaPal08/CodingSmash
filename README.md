@@ -3,6 +3,8 @@ A platform to practice DSA in multiple languages (C++, C, Java, JavaScript, etc.
 It combines an interactive coding environment, an AI-powered chatbot, and editorial video solutions to make learning structured and engaging.
 
 
+
+    
  Features
 
 - Multi-language Support – Write and run code in C, C++, Java, and JavaScript.
@@ -20,6 +22,9 @@ It combines an interactive coding environment, an AI-powered chatbot, and editor
 - Problem Bank – Solve DSA problems across different categories and difficulty levels.
 
 - Editorial Explanations – Not just videos, but written step-by-step breakdowns for deeper understanding.
+
+
+
 
 
 

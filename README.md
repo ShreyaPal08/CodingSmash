@@ -1,8 +1,5 @@
 # CodingSmash
-A platform to practice DSA in multiple languages (C++, C, Java, JavaScript, etc.) with an integrated chatbot for coding assistance and video editorial solutions.
-It combines an interactive coding environment, an AI-powered chatbot, and editorial video solutions to make learning structured and engaging.
-
-
+CodeSmash is an all-in-one platform designed to make Data Structures and Algorithms (DSA) learning interactive, engaging, and beginner-friendly. Instead of just solving coding problems, learners can practice, explore, and get instant guidance all in one place. The platform supports multiple programming languages like C, C++, Java, and JavaScript, ensuring flexibility for learners from different backgrounds. It combines an interactive coding environment, an AI-powered chatbot, and editorial video solutions to make learning structured, guided, and more effective.
 
     
  # Features

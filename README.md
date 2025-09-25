@@ -5,7 +5,7 @@ It combines an interactive coding environment, an AI-powered chatbot, and editor
 
 
     
- Features
+ # Features
 
 - Multi-language Support – Write and run code in C, C++, Java, and JavaScript.
 
@@ -29,7 +29,7 @@ It combines an interactive coding environment, an AI-powered chatbot, and editor
 
 
 
- Tech Stack
+ # Tech Stack
 
 - Frontend: React.js, Tailwind CSS
 
